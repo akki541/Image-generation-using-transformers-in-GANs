@@ -7,7 +7,7 @@
 
 ## Installation steps
 
-1. - Fork the [repo](https://github.com/codedmachine111/Image_generation_using_transformers_in_GANs)
+1. - Fork the [repo](https://github.com/akki541/Image-generation-using-transformers-in-GANs.git)
    - Clone the repo to your local machine `git clone https://github.com/codedmachine111/Image_generation_using_transformers_in_GANs.git`
    - Change current directory `cd Image_generation_using_transformers_in_GANs`
 2. Install latest version of [Python](https://www.python.org/) and create a virtual environment:
